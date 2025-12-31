@@ -20,7 +20,7 @@ The system focuses on **job authenticity verification**, not job posting or recr
 * **IDE:** VS Code
 * **Version Control:** Git & GitHub
 
-##  Project Structure (Typical)
+##  Project Structure 
 
 ```
 hireverify
